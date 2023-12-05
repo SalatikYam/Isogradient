@@ -3,6 +3,8 @@ import math
 import matplotlib.pyplot as plt
 import copy
 
+# comment delete me
+
 PRECISION = 1e-2
 NAME = "massif5.txt"
 
